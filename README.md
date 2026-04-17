@@ -1,6 +1,6 @@
 # 魔戒.net（mojie）官网注册入口说明、测评体验与使用指南
 
-<img src="https://raw.githubusercontent.com/jichangbaike/mojie/refs/heads/main/images/mojie-net.png" alt="魔戒.net 机场官网">
+<img src="https://raw.githubusercontent.com/jichangbaike/mojienet/refs/heads/main/images/mojie-net.png" alt="魔戒.net 机场官网">
 
 魔戒（Mojie）机场创立于 2021 年，是一家稳定运营多年的老牌网络加速服务商。主打高性价比流量包，并提供 不限速 / 不限时 / 不限设备数 的使用体验，适用于追剧娱乐、跨境电商、AI 办公、远程学习等多样化场景。
 
@@ -70,7 +70,7 @@
 
 ## 🎬 流媒体 & 平台支持
 
-<img src="https://raw.githubusercontent.com/jichangbaike/mojie/refs/heads/main/images/mojie-test-20260406.png" alt="魔戒.net 机场测试" width="900">
+<img src="https://raw.githubusercontent.com/jichangbaike/mojienet/refs/heads/main/images/mojie-test-20260406.png" alt="魔戒.net 机场测试" width="900">
 
 > 测试时间：2026-04-06，网络情况：电信 2Gbps
 
