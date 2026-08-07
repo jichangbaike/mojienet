@@ -8,7 +8,7 @@
 
 > 📌 本仓库仅整理公开信息与使用指南，不提供接入服务、账号、节点或配置文件。所有内容均来自公开渠道，仅供参考与学习。  
 >
-> 🔔 维护日期：2026-06-24
+> 🔔 维护日期：2026-8-7
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -71,9 +71,9 @@
 
 ## 🎬 流媒体 & 平台支持
 
-<img src="https://raw.githubusercontent.com/jichangbaike/mojienet/refs/heads/main/images/mojienet-test-20260610.png" alt="魔戒.net 机场测试" width="900">
+<img src="https://raw.githubusercontent.com/jichangbaike/mojienet/refs/heads/main/images/mojienet-test-20260807.png" alt="魔戒.net 机场测试" width="900">
 
-> 测试时间：2026-06-10，网络情况：电信 1Gbps
+> 测试时间：2026-8-7，网络情况：电信 1Gbps
 
 魔戒在媒体访问方面表现较好，可用于多地区内容访问：
 
@@ -163,5 +163,5 @@
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`
-- **Last Updated:** `2026-06-24`
-- **Version:** `v1.2`
+- **Last Updated:** `2026-8-7`
+- **Version:** `v1.3`
