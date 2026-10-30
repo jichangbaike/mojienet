@@ -71,9 +71,9 @@
 
 ## 🎬 流媒体 & 平台支持
 
-<img src="https://raw.githubusercontent.com/jichangbaike/mojienet/refs/heads/main/images/mojienet-test-20260915.jpg" alt="魔戒.net 机场测试" width="900">
+<img src="https://raw.githubusercontent.com/jichangbaike/mojienet/refs/heads/main/images/mojienet-test-20261030.jpg" alt="魔戒.net 机场测试" width="900">
 
-> 测试时间：2026-09-15，网络情况：电信 1Gbps
+> 测试时间：2026-10-30，网络情况：电信 1Gbps
 
 魔戒在媒体访问方面表现较好，可用于多地区内容访问：
 
